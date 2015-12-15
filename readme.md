@@ -2,7 +2,7 @@
 Contributors: (kengimel)
 Tags: menu, menu-item-id, mega-menu, food-cook, recipe plugin,
 Requires at least: 3.0.1
-Tested up to: 4.2.3
+Tested up to: 4.4
 Stable tag: 1
 License: MIT License
 License URI: http://opensource.org/licenses/MIT
@@ -38,11 +38,17 @@ This is just a quick fix, hopefully it will be temporary.
 ### 1.0
 * Initial Release
 
+### 1.1
+* Bump wordpress compatible version
+
 
 ## Upgrade Notice
 
 ### 1
 * Initial Release
+
+### 1.1
+* Bump wordpress compatible version
 
 ## Notes to developers
 

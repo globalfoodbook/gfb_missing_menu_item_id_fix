@@ -1,14 +1,14 @@
 <?php
 /**
  * @package Missing Menu Item ID Fix by Global Food Book
- * @version 1.0
+ * @version 1.1
  */
 /*
 Plugin Name: Missing Menu Item ID Fix
 Plugin URI: http://wordpress.org/extend/plugins/gfb-missing-menu-item-id-fix/
 Description: This is a hack to fix the missing menu item id from the food-cook wootheme for recipes It is best used only with food and cook recipe theme made with woo themes.
 Author: Ikenna N. Okpala
-Version: 1.0
+Version: 1.1
 Author URI: http://ikennaokpala.com/
 */
 // File Security Check
